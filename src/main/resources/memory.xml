@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+        <bean id = "SonyMemory1" class="spring.xml.SonyMemory"/>
+        <bean id = "SonyMemory2" class="spring.xml.SonyMemory"/>
+        <bean id = "KingstonMemory" class="spring.xml.KingstonMemory"/>
+
+
+</beans>

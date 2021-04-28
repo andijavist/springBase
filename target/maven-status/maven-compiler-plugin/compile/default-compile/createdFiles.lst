@@ -1,0 +1,11 @@
+spring\xml\NonStaticCPUFactory.class
+spring\xml\StaticCPUFactory.class
+spring\xml\Device.class
+spring\xml\CPU.class
+spring\xml\KingstonMemory.class
+spring\xml\IntelCPU.class
+spring\xml\Memory.class
+spring\xml\AmdCpu.class
+spring\xml\Comp.class
+spring\xml\App.class
+spring\xml\SonyMemory.class
