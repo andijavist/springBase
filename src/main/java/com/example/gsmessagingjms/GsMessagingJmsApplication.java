@@ -29,7 +29,7 @@ public class GsMessagingJmsApplication { /*класс запуска прило�
 //			return factory;
 //		}
 
-		@Bean // Serialize message content to json using TextMessage
+		@Bean // Serialize message content to json using TextMessage //прочитать что это!
 		public MessageConverter jacksonJmsMessageConverter() {
 			MappingJackson2MessageConverter converter = new MappingJackson2MessageConverter();
 			converter.setTargetType(MessageType.TEXT);
